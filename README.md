@@ -7,3 +7,5 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/2fd0df0932dc941a684d/maintainability)](https://codeclimate.com/github/chris-chris/research-ci-tutorial/maintainability)
 
 [![Test Coverage](https://api.codeclimate.com/v1/badges/2fd0df0932dc941a684d/test_coverage)](https://codeclimate.com/github/chris-chris/research-ci-tutorial/test_coverage)
+
+송호연님의 리서치 코드의 지속적 통합(CI) 튜토리얼 [상](https://riiidtechblog.medium.com/%EB%A6%AC%EC%84%9C%EC%B9%98-%EC%BD%94%EB%93%9C%EC%9D%98-%EC%A7%80%EC%86%8D%EC%A0%81-%ED%86%B5%ED%95%A9-ci-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-%EC%83%81%ED%8E%B8-aae5fabea681)편과 [하](https://riiidtechblog.medium.com/%EB%A6%AC%EC%84%9C%EC%B9%98-%EC%BD%94%EB%93%9C%EC%9D%98-%EC%A7%80%EC%86%8D%EC%A0%81-%ED%86%B5%ED%95%A9-ci-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-%ED%95%98%ED%8E%B8-2bad43233176)편의 예시 코드
